@@ -50,3 +50,5 @@ function adicionandoTarefa() {
   buttonDiv.appendChild(tarefaFeitaBtn);
   buttonDiv.appendChild(tarefaApagarBtn);
 }
+
+
